@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1433188149 source:c:\users\raydelto\pilas\main.cpp
+	<iostream>
+	"Validador.h"
+	<iomanip>
+
+1433185664 c:\users\raydelto\pilas\include\pila.h
+	"Elemento.h"
+
+1433184787 c:\users\raydelto\pilas\include\elemento.h
+	<string>
+
+1433184774 source:c:\users\raydelto\pilas\src\elemento.cpp
+	"Elemento.h"
+
+1433185937 source:c:\users\raydelto\pilas\src\pila.cpp
+	"Pila.h"
+
+1433188196 source:c:\users\raydelto\pilas\src\validador.cpp
+	"Validador.h"
+	<iostream>
+	<sstream>
+
+1433186392 c:\users\raydelto\pilas\include\validador.h
+	<string>
+	"Pila.h"
+
